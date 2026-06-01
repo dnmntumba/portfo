@@ -668,19 +668,19 @@ if(empty($_SESSION['csrf_token'])){
 <!-- FLOATING SOCIAL -->
 <div class="social-floating">
 
-  <a href="c:\Users\dnmnt\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\9FAB23DD6710037ECEB911A1C344D3E107CF521D\transfers\2026-22\WhatsApp Image 2026-06-01 at 13.13.36.jpeg" class="social-btn instagram">
+  <a href="c:\Users\dnmnt\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\9FAB23DD6710037ECEB911A1C344D3E107CF521D\transfers\2026-22\WhatsApp Image 2026-06-01 at 13.13.36.jpeg" class="social-btn instagram" target="_blank">
     <i class="fab fa-instagram"></i>
   </a>
 
-  <a href="https://web.facebook.com/profile.php?id=61563072091555" class="social-btn facebook">
+  <a href="https://web.facebook.com/profile.php?id=61563072091555" target="_blank" class="social-btn facebook">
     <i class="fab fa-facebook-f"></i>
   </a>
 
-  <a href="https://www.tiktok.com/@dnmntumba?_r=1&_t=ZS-96qaPpwnISD" class="social-btn tiktok">
+  <a href="https://www.tiktok.com/@dnmntumba?_r=1&_t=ZS-96qaPpwnISD" target="_blank" class="social-btn tiktok">
     <i class="fab fa-tiktok"></i>
   </a>
 
-  <a href="#" class="social-btn linkedin">
+  <a href="#" class="social-btn linkedin" target="_blank">
     <i class="fab fa-linkedin-in"></i>
   </a>
 

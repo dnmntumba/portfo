@@ -668,7 +668,7 @@ if(empty($_SESSION['csrf_token'])){
 <!-- FLOATING SOCIAL -->
 <div class="social-floating">
 
-  <a href="#" class="social-btn instagram">
+  <a href="c:\Users\dnmnt\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\9FAB23DD6710037ECEB911A1C344D3E107CF521D\transfers\2026-22\WhatsApp Image 2026-06-01 at 13.13.36.jpeg" class="social-btn instagram">
     <i class="fab fa-instagram"></i>
   </a>
 
@@ -676,7 +676,7 @@ if(empty($_SESSION['csrf_token'])){
     <i class="fab fa-facebook-f"></i>
   </a>
 
-  <a href="#" class="social-btn tiktok">
+  <a href="https://www.tiktok.com/@dnmntumba?_r=1&_t=ZS-96qaPpwnISD" class="social-btn tiktok">
     <i class="fab fa-tiktok"></i>
   </a>
 
